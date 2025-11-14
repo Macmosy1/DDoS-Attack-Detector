@@ -1,0 +1,20 @@
+# Model files (too large for GitHub)
+*.pkl
+*.pkl.*
+model_metadata.json
+
+# Virtual environment
+ddos_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
